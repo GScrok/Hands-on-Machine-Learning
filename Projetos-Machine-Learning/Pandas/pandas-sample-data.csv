@@ -1,0 +1,21 @@
+ID_Curso,Instrutor,AE,Inscritos,Avaliacao
+MT101,Ana Silva,Marcos Lopes,55,4.8
+MT101,Bruno Gomes,Julia Vaz,43,4.9
+MT102,Carlos Dias,Sofia Cardoso,60,4.7
+MT102,Ana Silva,Rodrigo Mattos,58,
+MT102,Luiz Costa,Marcos Lopes,,4.5
+MT103,Sandra Moraes,Pedro Mendes,47,4.6
+MT103,Bruno Gomes,Alice Gonçalves,50,4.7
+MT104,Carlos Dias,Julia Vaz,52,4.4
+MT104,Sandra Moraes,Paulo Souza,55,4.8
+FI101,Gabriel Ribeiro,Carla Souza,40,4.9
+FI101,Maria Clara,Sofia Cardoso,42,4.7
+FI102,Gabriel Ribeiro,Paulo Souza,39,4.6
+FI102,Roberta Vieira,Pedro Mendes,41,4.8
+FI103,Maria Clara,Alice Gonçalves,45,4.6
+FI103,Luiz Costa,Sofia Cardoso,48,4.5
+FI104,Roberta Vieira,Julia Vaz,50,4.7
+FI104,Ana Silva,Marcos Lopes,53,4.8
+HI101,Pedro Álvares,Carla Souza,44,4.5
+HI102,Sandra Moraes,Marcos Lopes,46,4.9
+HI103,Gabriel Ribeiro,Paulo Souza,49,4.6
